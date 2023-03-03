@@ -1,37 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>None</loc>
+         <loc>https://seonjin-qualitycontrol.github.io/policy/</loc>
          <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://seonjin-qualitycontrol.github.io/policy/under-construction/</loc>
          <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://seonjin-qualitycontrol.github.io/policy/policy/90-%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EA%B7%9C%EC%A0%95/</loc>
          <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://seonjin-qualitycontrol.github.io/policy/policy/91-%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EA%B7%9C%EC%A0%95%28%EB%B6%80%EB%A1%9D%29/</loc>
          <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://seonjin-qualitycontrol.github.io/policy/policy/93-%EC%97%85%EB%AC%B4%EC%88%98%EC%9E%84%EA%B3%BC%20%EC%9C%A0%EC%A7%80%EC%97%90%20%EA%B4%80%ED%95%9C%20Policy/</loc>
          <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://seonjin-qualitycontrol.github.io/policy/qcProcedures/goPublic/</loc>
          <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://seonjin-qualitycontrol.github.io/policy/qcProcedures/qualityReview/</loc>
+         <lastmod>2023-03-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://seonjin-qualitycontrol.github.io/policy/qcProcedures/workingPaper/</loc>
          <lastmod>2023-03-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
