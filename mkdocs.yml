@@ -24,7 +24,9 @@ nav:
         - 시간: ./qualityProcedure/workingPaper.md
         - 조서: ./qualityProcedure/workingPaper.md
         - 기타: ./qualityProcedure/workingPaper.md
-    - 관련 절차: ./qualityProcedure/workingPaper.md
+    - 기타 절차: ./qualityProcedure/workingPaper.md
+    - (참고) Quality Update:
+      - 2022.12.15-2023.4.3: ./qualityUpdate/221215-230403.md
 
 markdown_extensions:
     - toc:
@@ -37,10 +39,15 @@ markdown_extensions:
     - pymdownx.details
     - pymdownx.superfences
     - md_in_html
+    - pymdownx.tabbed:
+        alternate_style: true     
   
 plugins:
   - search
 
 extra_css:
-  - style.css
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
   
