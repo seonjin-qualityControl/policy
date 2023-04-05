@@ -26,6 +26,10 @@ iframe {
     font-size: 0.95em;
 }
 
+.md-typeset details.note {
+    font-size: 0.95em;
+}
+
 .hljs-string{
     color: black
 }
