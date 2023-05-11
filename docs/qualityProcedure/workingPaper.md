@@ -164,13 +164,19 @@ Audit Lobby 사용법은 [Audit LOBBY User Guide](https://userguide.auditlobby.c
 다음은 사전심리대상의 경우 사전심리담당자 사인오프 요구사항이 적용된 오딧로비 워크스페이스 사례입니다.
 ![img](../assets/qcProcedures/workingPaper/wp-4.png)
 
-## 입고후
+## 입고
 
 ### 입고 절차
 
+감사조서는 [70 감사조서관리 규정]()과 [90 품질관리규정]()에 따라 관리합니다. 조서는 생산부터 보관, 폐기까지 생애 주기동안, 업무팀, 조서관리자, 품질관리업무 담당이사(조서창고)가 체계적으로 관리하고 있습니다(그림 참조).
+
 ![img](../assets/qcProcedures/workingPaper/wp-2.png)
+
+이하 각 단계별로 수행할 업무와 문서화 항목
+
 ### 조서의 취합
 
+감사보고서일후 조서화 대상인 감사증거와 개인파일을 구분
 
 ## 변경이력
 
@@ -180,7 +186,7 @@ Audit Lobby 사용법은 [Audit LOBBY User Guide](https://userguide.auditlobby.c
 
 #### 추가/수정
 
-### [1.0.0] - 2023-02-06
+### [1.0.0] - 2023-04-10
 
 최초 배포. 아래 하이웍스 공지 내역을 종합하여 대체함.
 
