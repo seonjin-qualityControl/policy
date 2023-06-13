@@ -26,6 +26,7 @@ nav:
         - 시간: ./qualityProcedure/workingPaper.md
         - 조서: ./qualityProcedure/workingPaper.md
         - 기타: ./qualityProcedure/workingPaper.md
+      - 성과평가: ./qualityProcedure/performanceReview.md
     - 기타 절차: ./qualityProcedure/workingPaper.md
     - (참고) Quality Update:
       - 2022.12.15. - 2023. 4. 3.: ./qualityUpdate/221215-230403.md
