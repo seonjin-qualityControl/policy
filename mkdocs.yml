@@ -24,6 +24,7 @@ nav:
       - 발행: ./qualityProcedure/goPublic.md
       - 업무의 수행:
         - 시간: ./qualityProcedure/workingPaper.md
+        - 자문: ./qualityProcedure/consultation.md
         - 조서: ./qualityProcedure/workingPaper.md
         - 기타: ./qualityProcedure/workingPaper.md
       - 성과평가: ./qualityProcedure/performanceReview.md
