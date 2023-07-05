@@ -8,7 +8,7 @@ theme:
 
 nav:
     - 내규:
-      # - 현행정관: index.md
+      - 정관(조회용, 개정 2022년 6월 30일): ./internalPolicy/00-정관.md
       - 70 감사조서관리 규정: ./internalPolicy/70-감사조서관리 규정.md   
       - 90 품질관리규정: ./internalPolicy/90-품질관리규정.md
       - 91 품질관리규정(부록): ./internalPolicy/91-품질관리규정(부록).md
@@ -30,6 +30,8 @@ nav:
       - 성과평가: ./qualityProcedure/performanceReview.md
       - 징계: ./qualityProcedure/punishment.md
     - 기타 절차: ./qualityProcedure/workingPaper.md
+    - (참고) 품질관리감리 결과:
+      - 2022년 개선권고항목: ./fssReview/fr2022.md
     - (참고) Quality Update:
       - 2022.12.15. - 2023. 4. 3.: ./qualityUpdate/221215-230403.md
       - 2023. 4. 3. - 2023. 5. 8.: ./qualityUpdate/230403-230508.md
