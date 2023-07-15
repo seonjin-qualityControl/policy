@@ -45,6 +45,7 @@ nav:
     - (참고) Quality Update:
       - 2022.12.15. - 2023. 4. 3.: ./qualityUpdate/221215-230403.md
       - 2023. 4. 3. - 2023. 5. 8.: ./qualityUpdate/230403-230508.md
+      - 2023. 5. 8. - 2023. 7. 14.: ./qualityUpdate/230508-230714.md
 
 markdown_extensions:
     - toc:
