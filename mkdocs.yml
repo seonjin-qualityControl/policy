@@ -33,13 +33,13 @@ nav:
         - 외부감사법 감사업무: './qualityProcedure/qualityReview.md'        
       - 발행: ./qualityProcedure/goPublic.md
       - 업무의 수행:
-        - 시간: ./qualityProcedure/workingPaper.md
+        - 시간: ./under-construction.md
         - 자문: ./qualityProcedure/consultation.md
         - 조서: ./qualityProcedure/workingPaper.md
-        - 기타: ./qualityProcedure/workingPaper.md
+        - 기타: ./under-construction.md
       - 성과평가: ./qualityProcedure/performanceReview.md
       - 징계: ./qualityProcedure/punishment.md
-    - 기타 절차: ./qualityProcedure/workingPaper.md
+    - 기타 절차: ./under-construction.md
     - 품질관리감리 결과:
       - 2022년 개선권고사항: ./fssReview/fr2022.md
     - (참고) Quality Update:
