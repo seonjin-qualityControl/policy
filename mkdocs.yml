@@ -35,7 +35,7 @@ nav:
     # - 정책 공지:
       # - TBD: index.md
     - 품질관리절차:
-      - 계약: 'index.md'
+      - 계약: './qualityProcedure/contract.md'
       - 업무품질관리검토:
         - 외부감사법 감사업무: './qualityProcedure/qualityReview.md'        
       - 발행: ./qualityProcedure/goPublic.md
