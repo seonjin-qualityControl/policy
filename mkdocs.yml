@@ -55,6 +55,7 @@ nav:
       - 2023. 5. 8. - 2023. 7. 14.: ./qualityUpdate/230508-230714.md
       - 2023. 7. 14. - 2023. 8. 31.: ./qualityUpdate/230714-230831.md
       - 2023. 8. 31. - 2023. 9. 30.: ./qualityUpdate/230831-230930.md
+      - 2023. 9. 30. - 2023. 10. 31.: ./qualityUpdate/230930-231031.md
 
 markdown_extensions:
     - toc:
